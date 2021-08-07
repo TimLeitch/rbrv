@@ -1,9 +1,3 @@
-/**
-* Template Name: Gp - v4.2.0
-* Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -165,9 +159,9 @@
   }
 
   /**
-   * Clients Slider
+   * vendors Slider
    */
-  new Swiper('.clients-slider', {
+  new Swiper('.vendors-slider', {
     speed: 400,
     loop: true,
     autoplay: {
