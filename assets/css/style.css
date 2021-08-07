@@ -148,7 +148,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-#  Get Startet Button
+#  Get Started Button
 --------------------------------------------------------------*/
 .get-started-btn {
   color: #fff;
@@ -416,20 +416,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
-  /* text-shadow: 1px 1px 1px #919191,
-    1px 2px 1px #919191,
-    1px 3px 1px #919191,
-    1px 4px 1px #919191,
-    1px 5px 1px #919191,
-    1px 6px 1px #919191,
-    1px 7px 1px #919191,
-    1px 8px 1px #919191,
-    1px 9px 1px #919191,
-    1px 10px 1px #919191,
-    1px 18px 6px rgba(16, 16, 16, 0.4),
-    1px 22px 10px rgba(16, 16, 16, 0.2),
-    1px 25px 35px rgba(16, 16, 16, 0.2),
-    1px 30px 60px rgba(16, 16, 16, 0.4); */
 }
 
 #hero h1 span {
@@ -573,29 +559,29 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Clients
+# vendors
 --------------------------------------------------------------*/
-.clients {
+.vendors {
   padding-top: 20px;
 }
 
-.clients .swiper-slide img {
+.vendors .swiper-slide img {
   opacity: 0.5;
   transition: 0.3s;
   filter: grayscale(100);
 }
 
-.clients .swiper-slide img:hover {
+.vendors .swiper-slide img:hover {
   filter: none;
   opacity: 1;
 }
 
-.clients .swiper-pagination {
+.vendors .swiper-pagination {
   margin-top: 20px;
   position: relative;
 }
 
-.clients .swiper-pagination .swiper-pagination-bullet {
+.vendors .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
   background-color: #fff;
@@ -603,7 +589,7 @@ section {
   background-color: #ddd;
 }
 
-.clients .swiper-pagination .swiper-pagination-bullet-active {
+.vendors .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #ffc451;
 }
 
@@ -627,7 +613,8 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #ac2424;
+  color: #ffc451;
+ 
 }
 
 .features .icon-box p {
