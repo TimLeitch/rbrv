@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+Initial Website and design for R&B RV Service and Supply
 
-Template Name: Gp
-Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Based on the GP template from BootstramMade.com
+Author: Tim Leitch
+
